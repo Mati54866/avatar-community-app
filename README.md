@@ -1,5 +1,7 @@
 # Avatar Community App
 
+[![CI Status](https://github.com/Mati54866/avatar-community-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Mati54866/avatar-community-app/actions)
+
 A mobile community application built with React Native (Expo), where users can create avatars and interact through posts, comments, likes, and voting features.
 
 ---
