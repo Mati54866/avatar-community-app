@@ -17,7 +17,7 @@ A mobile community application built with React Native (Expo), where users can c
 - Multi-language support (i18n)
 - Push notifications
 - Infinite scroll
-- Optimistic UI updates
+- Optimistic UI update
 
 ---
 
